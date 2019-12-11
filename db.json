@@ -1,0 +1,140 @@
+{
+  "login": {
+    "user": {
+      "name": "Test User",
+      "token": "1111111111111111"
+    }
+  },
+  "customerDetails": [
+    {
+      "applicationNo": "1000",
+      "investorName": "Nikhil Mehta",
+      "spName": "Rithsh kumar",
+      "spCode": "4003",
+      "premiumAmount": "50000",
+      "sumAssured": "600000",
+      "status": "Application Sent",
+      "ipotNumber": "7985"
+    },
+    {
+      "applicationNo": "1000",
+      "investorName": "Nikhil Mehta",
+      "spName": "Rithsh kumar",
+      "spCode": "4003",
+      "premiumAmount": "50000",
+      "sumAssured": "600000",
+      "status": "Application Sent",
+      "ipotNumber": "7985"
+    },
+    {
+      "applicationNo": "1000",
+      "investorName": "Nikhil Mehta",
+      "spName": "Rithsh kumar",
+      "spCode": "4003",
+      "premiumAmount": "50000",
+      "sumAssured": "600000",
+      "status": "Application Sent",
+      "ipotNumber": "7985"
+    },
+    {
+      "applicationNo": "1000",
+      "investorName": "Nikhil Mehta",
+      "spName": "Rithsh kumar",
+      "spCode": "4003",
+      "premiumAmount": "50000",
+      "sumAssured": "600000",
+      "status": "Application Sent",
+      "ipotNumber": "7985"
+    },
+    {
+      "applicationNo": "1000",
+      "investorName": "Nikhil Mehta",
+      "spName": "Rithsh kumar",
+      "spCode": "4003",
+      "premiumAmount": "50000",
+      "sumAssured": "600000",
+      "status": "Application Sent",
+      "ipotNumber": "7985"
+    },
+    {
+      "applicationNo": "1000",
+      "investorName": "Nikhil Mehta",
+      "spName": "Rithsh kumar",
+      "spCode": "4003",
+      "premiumAmount": "50000",
+      "sumAssured": "600000",
+      "status": "Application Sent",
+      "ipotNumber": "7985"
+    },
+    {
+      "applicationNo": "1000",
+      "investorName": "Nikhil Mehta",
+      "spName": "Rithsh kumar",
+      "spCode": "4003",
+      "premiumAmount": "50000",
+      "sumAssured": "600000",
+      "status": "Application Sent",
+      "ipotNumber": "7985"
+    },
+    {
+      "applicationNo": "1000",
+      "investorName": "Nikhil Mehta",
+      "spName": "Rithsh kumar",
+      "spCode": "4003",
+      "premiumAmount": "50000",
+      "sumAssured": "600000",
+      "status": "Application Sent",
+      "ipotNumber": "7985"
+    },
+    {
+      "applicationNo": "1000",
+      "investorName": "Nikhil Mehta",
+      "spName": "Rithsh kumar",
+      "spCode": "4003",
+      "premiumAmount": "50000",
+      "sumAssured": "600000",
+      "status": "Application Sent",
+      "ipotNumber": "7985"
+    },
+    {
+      "applicationNo": "1000",
+      "investorName": "Nikhil Mehta",
+      "spName": "Rithsh kumar",
+      "spCode": "4003",
+      "premiumAmount": "50000",
+      "sumAssured": "600000",
+      "status": "Application Sent",
+      "ipotNumber": "7985"
+    },
+    {
+      "applicationNo": "1000",
+      "investorName": "Nikhil Mehta",
+      "spName": "Rithsh kumar",
+      "spCode": "4003",
+      "premiumAmount": "50000",
+      "sumAssured": "600000",
+      "status": "Application Sent",
+      "ipotNumber": "7985"
+    },
+    {
+      "applicationNo": "1000",
+      "investorName": "Nikhil Mehta",
+      "spName": "Rithsh kumar",
+      "spCode": "4003",
+      "premiumAmount": "50000",
+      "sumAssured": "600000",
+      "status": "Application Sent",
+      "ipotNumber": "7985"
+    },
+    {
+      "applicationNo": "1000",
+      "investorName": "Nikhil Mehta",
+      "spName": "Rithsh kumar",
+      "spCode": "4003",
+      "premiumAmount": "50000",
+      "sumAssured": "600000",
+      "status": "Application Sent",
+      "ipotNumber": "7985"
+    }
+  ]
+}
