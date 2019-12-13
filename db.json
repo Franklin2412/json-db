@@ -136,5 +136,8 @@
       "status": "Application Sent",
       "ipotNumber": "7985"
     }
-  ]
+  ], 
+  "validateSuitabilityMatrix": {
+    "isValid": true,
+  }
 }
