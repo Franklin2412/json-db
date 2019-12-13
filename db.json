@@ -138,6 +138,6 @@
     }
   ], 
   "validateSuitabilityMatrix": {
-    "isValid": true,
+    "isValid": true
   }
 }
