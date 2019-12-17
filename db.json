@@ -139,5 +139,38 @@
   ], 
   "validateSuitabilityMatrix": {
     "isValid": true
+  }, 
+  "customerInfo": {
+    "utilizationMessage": "Investor has already utilised 2,00,000/-  Sum assured for this scheme. You can invest upto 3,00,000/-",
+    "applicationDetails": "D4DF82",
+    "basicDetails": {
+      "name": {"value": "Aman Kumar", "isVerified": true},
+      "panNo": {"value": "ABCDE12345", "isVerified": true},
+      "dob": {"value": "24/04/1982", "isVerified": true},
+      "gender": {"value": "male", "isVerified": true},
+      "mobileNo": {"value": "9098789098", "isVerified": true},
+      "emailId": {"value": "aman.kumar@gmail.com", "isVerified": true},
+      "residentStatus": {"value": "Indian", "isVerified": true},
+      "prefferedLanguage": {"value": "English", "isVerify": true},
+      "currentAddress": {"value": "L-48, Sneh Paradise, MIT College Road, Kothrud, Pune", "isValid": true},
+      "isPermanentAddessSame": {"value": true, "isVerified": false},
+      "declaration": {"value": false, "isVerified": false},
+    },
+    "selectScheme": {
+        "title": {"value": "Select Investment Funds"},
+        "premium": {"value": 4000"},
+        "paymentFrequency": {"value": "Monthly", "options": ["Monthly", "Yearly"]},
+        "paymentTerm": {"value": "5 years", "options": ["5 years", "7 years", "10 years"]},
+        "policyTerm": {"value": "10 years", "options": ["10 years", "20 years"]},
+        "sumAssured": {"value": "480000", "options": ["480000", "580000", "680000"]},
+        "fundSelection": [{"value": "Equity Plus Fund", "sub": "MEGA CAPITAL", "percentage": "100%", "isChecked": true}, 
+        {"value": "Bluechip Wealth Builder Fund", "sub": "LARGE CAPITAL", "percentage": "0%", "isChecked": false},
+         {"value": "Diversified Equity  Fund", "sub": "LARGE MID", "percentage": "0%", "isChecked": false}, 
+         {"value": "Opportunities Wealth Builder Fund", "sub": "MIDCAP / VALUE", "percentage": "0%", "isChecked": false}, 
+         {"value": "Balanced Fund", "sub": "HYBRID", "percentage": "50%", "isChecked": true}, 
+         {"value": "Bond Fund", "sub": "MEDIUM TO LONG DURATION DEBT", "percentage": "0%", "isChecked": false}, 
+         {"value": "Income Fund", "sub": "MEDIUM TO LONG DURATION DEBT", "percentage": "0%", "isChecked": false}, 
+         {"value": "Conversation Fund", "sub": "LOW DURATION BOND", "percentage": "0%"}]
+    }
   }
 }
