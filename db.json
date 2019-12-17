@@ -154,7 +154,7 @@
       "prefferedLanguage": {"value": "English", "isVerify": true},
       "currentAddress": {"value": "L-48, Sneh Paradise, MIT College Road, Kothrud, Pune", "isValid": true},
       "isPermanentAddessSame": {"value": true, "isVerified": false},
-      "declaration": {"value": false, "isVerified": false},
+      "declaration": {"value": false, "isVerified": false}
     },
     "selectScheme": {
         "title": {"value": "Select Investment Funds"},
