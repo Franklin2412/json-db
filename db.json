@@ -158,7 +158,7 @@
     },
     "selectScheme": {
         "title": {"value": "Select Investment Funds"},
-        "premium": {"value": 4000"},
+        "premium": {"value": "4000"},
         "paymentFrequency": {"value": "Monthly", "options": ["Monthly", "Yearly"]},
         "paymentTerm": {"value": "5 years", "options": ["5 years", "7 years", "10 years"]},
         "policyTerm": {"value": "10 years", "options": ["10 years", "20 years"]},
