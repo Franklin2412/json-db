@@ -5,6 +5,87 @@
       "token": "1111111111111111"
     }
   },
+  "customerDetailsPage": 
+  {
+    "statusCode": 200,
+    "message": "OK",
+    "data": {
+        "list": [
+            {
+                "status": "start",
+                "_id": "5e9d43183f6488c20411403c",
+                "pan": "ARWEV2343",
+                "createdAt": "2020-04-20T06:37:12.588Z",
+                "updatedAt": "2020-04-20T06:37:12.588Z"
+            },
+            {
+                "status": "start",
+                "_id": "5e9d431b3f6488c20411403f",
+                "pan": "ARWEV2343",
+                "createdAt": "2020-04-20T06:37:15.240Z",
+                "updatedAt": "2020-04-20T06:37:15.240Z"
+            },
+            {
+                "status": "start",
+                "_id": "5e9d431c3f6488c204114042",
+                "pan": "ARWEV2343",
+                "createdAt": "2020-04-20T06:37:16.937Z",
+                "updatedAt": "2020-04-20T06:37:16.937Z"
+            },
+            {
+                "status": "start",
+                "_id": "5e9d431e3f6488c204114045",
+                "pan": "ARWEV2343",
+                "createdAt": "2020-04-20T06:37:18.768Z",
+                "updatedAt": "2020-04-20T06:37:18.768Z"
+            },
+            {
+                "status": "start",
+                "_id": "5e9d43203f6488c204114048",
+                "pan": "ARWEV2343",
+                "createdAt": "2020-04-20T06:37:20.566Z",
+                "updatedAt": "2020-04-20T06:37:20.566Z"
+            },
+            {
+                "status": "start",
+                "_id": "5e9d43223f6488c20411404b",
+                "pan": "ARWEV2343",
+                "createdAt": "2020-04-20T06:37:22.230Z",
+                "updatedAt": "2020-04-20T06:37:22.230Z"
+            },
+            {
+                "status": "start",
+                "_id": "5e9d43233f6488c20411404e",
+                "pan": "ARWEV2343",
+                "createdAt": "2020-04-20T06:37:23.635Z",
+                "updatedAt": "2020-04-20T06:37:23.635Z"
+            },
+            {
+                "status": "start",
+                "_id": "5e9d43253f6488c204114051",
+                "pan": "ARWEV2343",
+                "createdAt": "2020-04-20T06:37:25.221Z",
+                "updatedAt": "2020-04-20T06:37:25.221Z"
+            },
+            {
+                "status": "start",
+                "_id": "5e9d43263f6488c204114054",
+                "pan": "ARWEV2343",
+                "createdAt": "2020-04-20T06:37:26.925Z",
+                "updatedAt": "2020-04-20T06:37:26.925Z"
+            },
+            {
+                "status": "start",
+                "_id": "5e9d43283f6488c204114057",
+                "pan": "ARWEV2343",
+                "createdAt": "2020-04-20T06:37:28.661Z",
+                "updatedAt": "2020-04-20T06:37:28.661Z"
+            }
+        ],
+        "count": 42,
+        "page": "1"
+    }
+  },
   "customerDetails": [
     {
       "applicationNo": "1000",
